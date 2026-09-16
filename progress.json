@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:13:35.049Z",
+  "generated_at": "2026-09-16T14:24:39.646Z",
   "items": {
     "problem:52": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-09-16T14:13:32.679Z",
       "language": "python",
       "lines": 37
+    },
+    "lab:3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1": {
+      "kind": "lab",
+      "id": "3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "title": "Implement Train/Val/Test Split and Evaluate a Baseline",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "path": "labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-implement-train-val-test-split-and-evaluate-a-baseline",
+      "first_solved_at": "2026-09-16T14:24:38.905Z",
+      "last_pushed_at": "2026-09-16T14:24:38.905Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
