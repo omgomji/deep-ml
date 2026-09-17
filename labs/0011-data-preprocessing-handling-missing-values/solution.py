@@ -18,7 +18,7 @@ def impute(X: np.ndarray) -> np.ndarray:
         valid = np.isfinite(col)
 
         if np.any(valid):
-            fill_val = np.median(col[valid])
+            fill_val = np.mean(col[valid])
         else:
             fill_val = 0.0
 
